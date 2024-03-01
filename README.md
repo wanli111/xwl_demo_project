@@ -3,4 +3,4 @@
 ```bash
 print("hello world")
 ```
-https://tutu.to/ttt_a9TWxb.png
+![image](https://tutu.to/ttt_a9TWxb.png)
