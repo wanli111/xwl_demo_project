@@ -6,9 +6,9 @@ hello 家人们！！！
 这个项目里我分享了一些好看的照片以及一些机场节点！！！
 ```
 刷新即可更换图片
-![随机图床](https://cdn.seovx.com/d/?mom=302 )
+![随机图床](https://cdn.seovx.com/d/?mom=302)
 - 一些好用的节点分享
-```json
+```bash
 vless://eb69ef4d-3080-4ebf-9fb4-8a81e3f01c01@ali.055500.xyz:443?encryption=none&security=tls&sni=cf.katelya.xyz&fp=randomized&type=ws&host=cf.katelya.xyz&path=%2F%3Fed%3D2048#1-2
 vless://eb69ef4d-3080-4ebf-9fb4-8a81e3f01c01@ali.055500.xyz:443?encryption=none&security=tls&sni=cf.katelya.link&fp=randomized&type=ws&host=cf.katelya.link&path=%2F%3Fed%3D2048#2-2
 vless://eb69ef4d-3080-4ebf-9fb4-8a81e3f01c01@www.gov.se:443?encryption=none&security=tls&sni=cf.katelya.xyz&fp=randomized&type=ws&host=cf.katelya.xyz&path=%2F%3Fed%3D2048#1-3
